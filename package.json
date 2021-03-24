@@ -1,0 +1,19 @@
+{
+  "name": "Day17",
+  "description": "Day17",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirzaHamur/Day17.git"
+  },
+  "keywords": [],
+  "author": "MirzaHamur",
+  "bugs": {
+    "url": "https://github.com/MirzaHamur/Day17/issues"
+  },
+  "homepage": "https://github.com/MirzaHamur/Day17#readme",
+  "dependencies": {
+  }
+}
